@@ -12,7 +12,7 @@ docker pull opspresso/guard
 ## version
 
 ```
-ENV VERSION 0.2.0
+ENV VERSION 0.1.4
 ```
 
 ## latest
